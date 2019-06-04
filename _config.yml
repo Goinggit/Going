@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://goinggit.github.io/GoingPages
+url:  https://goinggit.github.io/going.github.io
 date_format: "ordinal"
 title: Going
 subtitle: "行胜于言"
